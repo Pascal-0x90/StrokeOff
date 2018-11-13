@@ -33,7 +33,10 @@ You will need:
   - os
   - subprocess
   - yaml
-
+  - pyHook
+  - datetime
+  - ctypes
+  - win32ui
 Main files:
   - yamlWriter
   - keyTracker
