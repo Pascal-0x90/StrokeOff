@@ -29,15 +29,15 @@ Tick the manual thresh radio button to enable threshold:
 
 Packages:
 You will need:
-  tkinter
-  os
-  subprocess
-  yaml
+  - tkinter
+  - os
+  - subprocess
+  - yaml
 
 Main files:
-  yamlWriter
-  keyTracker
-  stroekGUI
+  - yamlWriter
+  - keyTracker
+  - stroekGUI
   
 StrokeOff.py is an alpha of strokeOff.
 
