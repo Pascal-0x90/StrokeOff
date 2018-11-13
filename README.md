@@ -36,6 +36,7 @@ You will need:
 
 Main files:
   yamlWriter
+  keyTracker
   stroekGUI
   
 StrokeOff.py is an alpha of strokeOff.
