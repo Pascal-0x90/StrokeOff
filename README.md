@@ -26,3 +26,23 @@ Tick the manual thresh radio button to enable threshold:
  
  *** DIFFERENCE BETWEEN NORMAL AND PARANOID ******
  Mainly just paranoid locks the users screen therefore mitigating the "oh shit i left my computer unlocked" problem and someone tries a HID attack
+
+Packages:
+You will need:
+  tkinter
+  os
+  subprocess
+  yaml
+
+Main files:
+  yamlWriter
+  stroekGUI
+  
+StrokeOff.py is an alpha of strokeOff.
+
+ISSUES: 
+  - I cannot properly compile both into one exe properly
+  - Usually when I do one or the other will work coherently
+  - I can however get things to work when theres atleast one .py file hanging outside the exe
+  
+I used pyInstaller so if anyone wants to fandangle with that or something else and tell me how they did it that'd be pretty neato. I'll probably try to finish it sometime towards the end of December when I amd not slammed with other commitments.
