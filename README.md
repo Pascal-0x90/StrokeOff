@@ -10,12 +10,12 @@ Randdrop: Same with this one
 Filename: put something fancy like log.txt
 
 Example: 
-  Policy: Paranoid
-  Password: quack
-  BlackList:  Command Prompt
-  Size: 1
-  Randdrop: 1
-  Filename: log.txt
+  - Policy: Paranoid
+  - Password: quack
+  - BlackList:  Command Prompt
+  - Size: 1
+  - Randdrop: 1
+  - Filename: log.txt
   
 Tick the manual thresh radio button to enable threshold:
   Comfortable threshold is around 30. Agressive is 50 and lax would be around 15-20. This is the main hitter of the program since it bases the concept that humans cant type as fast as USB Rubberduckies or other HID attack platforms. 
